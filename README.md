@@ -1,4 +1,4 @@
-# Ebook: Exploring the Digital Landscape
+# Ebook: The Information Age
 
 <div align="center">
   <img src="ebook_cover_image.jpg" alt="Ebook Cover" width="400px">
